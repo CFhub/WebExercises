@@ -68,7 +68,7 @@
                                     <a class="dropdown-item"
                                             href="~/ExercisePages/(Ex06) MultiRecordDropdownToCustomGridView.aspx"
                                             style="color:black" runat="server">
-                                            (Ex06) Multi Record Query Dropdown to Custom GridView (Ex06)
+                                            (Ex06) Multi Record Query Dropdown to Custom GridView 
                                     </a>
                                 </div>
                             </li>
